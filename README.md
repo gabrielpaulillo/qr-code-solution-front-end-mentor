@@ -9,6 +9,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Print] 
     - My solution's print: https://prnt.sc/36TixDYluENs
   - [Links]
+    - Repo URL: https://github.com/gabrielpaulillo/qr-code-solution-front-end-mentor.git
     - My solution's link: https://gabrielpaulillo.github.io/qr-code-solution-front-end-mentor/
 - [My process](#my-process)
   - [Built with]
