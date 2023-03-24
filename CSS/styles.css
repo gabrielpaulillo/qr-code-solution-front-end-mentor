@@ -1,0 +1,62 @@
+a {
+    font-size: 0.7rem;
+    text-decoration: none;
+}
+
+body {
+    background-color: hsl(212, 45%, 89%);
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 1.2rem;
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+    font-family: 'Outfit', sans-serif;
+    font-size: 0.93rem;
+}
+
+/* Classes */
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+.bottom-area {
+    height: 8rem;
+    margin: auto;
+    width: 17rem;
+}
+
+.container {
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 3%;
+    width: 20rem;
+    height: 30rem; 
+    margin: auto auto 1rem;
+}
+
+.qr-code {
+    border-radius: 3%;
+    width: 18rem;
+    height: 17rem;
+    margin: 1rem auto 1rem;
+}
+
+.text-bottom {
+    margin: 3rem auto 1rem;
+}
+
+.top-area {
+    height: 17rem; 
+    margin: 2rem auto;
+    width: 20rem;
+}
